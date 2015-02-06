@@ -1,0 +1,36 @@
+{
+  "photos": [
+    {
+      "title": "Cute",
+      "url": "/images/1.jpg"
+    },
+    {
+      "title": "Adorbs",
+      "url": "/images/2.jpg"
+    },
+    {
+      "title": "D'aww",
+      "url": "/images/3.jpg"
+    },
+    {
+      "title": "Sweet",
+      "url": "/images/4.jpg"
+    },
+    {
+      "title": "Nice",
+      "url": "/images/5.jpg"
+    },
+    {
+      "title": "Kitten",
+      "url": "/images/6.jpg"
+    },
+    {
+      "title": "",
+      "url": "/images/7.jpg"
+    },
+    {
+      "title": "Are You Kitten Me",
+      "url": "/images/8.jpg"
+    }
+  ]
+}
