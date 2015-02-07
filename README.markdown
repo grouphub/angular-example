@@ -47,7 +47,7 @@ the MainController.
 
 You will need to split the data you get back from "quotes.txt" using
 `String.split(...)`. You can find info at:
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/split)
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/split
 
 ### Refactoring
 
